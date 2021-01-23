@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```ts
+```TypeScript
 function main() {
     return 0
 }

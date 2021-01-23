@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```ts
+function main() {
+    return 0
+}
+```
+
+[![natural-harmonia-gropius's github stats](https://github-readme-stats.vercel.app/api?username=natural-harmonia-gropius&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=natural-harmonia-gropius.github)
+
 <!--
 **Natural-Harmonia-Gropius/natural-harmonia-gropius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
